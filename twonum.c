@@ -14,5 +14,5 @@ while(c!=b*7)
    if (b==9){a=a+1;b=1;}
 }
 
-printf("the required no is %d",c);
+printf("The required two digit number that becomes 7 times smaller after the first digit is deleted is %d",c);
 }
